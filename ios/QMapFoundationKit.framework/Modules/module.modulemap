@@ -1,0 +1,5 @@
+framework module QMapFoundationKit {
+	umbrella header "QMapFoundationKit.h"
+    export *
+    module * { export * }
+}
