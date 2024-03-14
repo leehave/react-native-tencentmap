@@ -9,7 +9,7 @@ npm install react-native-tencentmap
 ```
 ## Notice
 
-注意`ios/QMapKit.framework/QMapKit`太大，请到(官网)[https://lbs.qq.com/mobile/iOSMapSDK/mapDownload/download3D]下载，找到包`QMapKit.framework`下的`QMapKit`拖入
+注意`ios/QMapKit.framework/QMapKit`太大，请到[官网](https://lbs.qq.com/mobile/iOSMapSDK/mapDownload/download3D)下载，找到包`QMapKit.framework`下的`QMapKit`拖入
 ## Usage
 
 ```js
